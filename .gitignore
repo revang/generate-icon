@@ -1,0 +1,8 @@
+__pycache__/
+
+build/
+convert-icon/
+
+*.spec
+*.exe
+!*convert-icon.exe
